@@ -37,7 +37,6 @@ def menu():
     sys.stdout.write(f"NaSaKi Ddos Update 4.5.8")
     clear()
     print('HaToKi DDoS By hoangvietanh [https://www.facebook.com/profile.php?id=100074802690241] ')
-    print("https://tddcd.info")
     print(Fore.YELLOW + """
 
             ╚═════════════════════╦═════════════════════════════════════════╦══════════════════════╝
